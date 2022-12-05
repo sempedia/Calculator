@@ -94,5 +94,3 @@ eval_button.grid(row=4, columnspan=3)
 
 # Display the main window and end the Application.
 win.mainloop()
-
-
