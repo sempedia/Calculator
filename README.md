@@ -1,4 +1,3 @@
-Calculator
 Simple Calculator using tkinter GUI and Python
 
 The Calculator GUI contains:
